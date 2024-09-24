@@ -34,4 +34,4 @@ Recently the source code of the bot i made that does this has been obtained by a
 
 Don't want to go through all this / just looking to purchase it?
 -
-You can always purchase it via contacting me on ytorianv1001 on discord. Moreover, I am working a new version of this bot (with alot of upgrades) which is publicly available to be added to your discord server. to check it out go to: https://discord.gg/Ffdydhkeed
+You can always purchase it via contacting me on ytorianv1001 on discord. Moreover, I am working a new version of this bot (with alot of upgrades) which is publicly available to be added to your discord server. to check it out go to: https://discord.gg/swappy
